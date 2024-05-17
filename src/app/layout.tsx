@@ -5,7 +5,7 @@ import Footer from "@/components/Footer"
 import ScrollToTop from "@/components/ScrollToTop"
 import { Inter } from 'next/font/google'
 import { Providers } from "./providers"
-import "react-modal-video/css/modal-video.css";
+// import "react-modal-video/css/modal-video.css";
 import '../styles/index.css'
 
 const inter = Inter({ subsets: ["latin"] });
